@@ -135,7 +135,7 @@ exponentialStvkSpringConstraint(staticSolverData, dynamicSolverData);
 
 Other Constraints are:
 
-Other state of the art methods for comparison purposes for the publications.
+Other state of the art methods for comparison purposes in the publications.
 
 Please enjoy the project and if you need any assistance, contact with me anytime.
 
