@@ -1,0 +1,346 @@
+﻿  mPHYSSolver.cpp
+mPHYSSolver.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(579): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(580): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(610): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(611): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(612): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(642): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(643): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(644): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(870): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+mPHYSSolver.cpp(873): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+mPHYSSolver.cpp(897): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(953): warning C4305: '=': truncation from 'double' to 'float'
+mPHYSSolver.cpp(982): warning C4305: '=': truncation from 'double' to 'float'
+mPHYSSolver.cpp(1358): warning C4305: '=': truncation from 'double' to 'float'
+mPHYSSolver.cpp(1713): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(1714): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(1785): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+mPHYSSolver.cpp(1819): warning C4018: '<': signed/unsigned mismatch
+mPHYSSolver.cpp(1887): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+mPHYSSolver.cpp(1926): warning C4018: '<': signed/unsigned mismatch
+mPHYSSolver.cpp(1939): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(1940): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(1941): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+mPHYSSolver.cpp(1962): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  mPHYSSolverPlugin.cpp
+  PHYSSolverCPU.cpp
+PHYSSolverCPU.cpp(186): warning C4305: 'argument': truncation from 'double' to 'const float'
+PHYSSolverCPU.cpp(249): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(280): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(300): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(345): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(359): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(377): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(381): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(412): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(473): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(475): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(523): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(527): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(531): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(533): warning C4305: 'initializing': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(552): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(556): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(560): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(578): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(582): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(586): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(604): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(608): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(612): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(689): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(691): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(696): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(754): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(758): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(762): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(764): warning C4305: 'initializing': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(782): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(783): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(786): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(787): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(790): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(791): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(809): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(813): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(817): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(834): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(835): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(838): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(839): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(842): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(843): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(906): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(910): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(914): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(918): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(957): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(958): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(959): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1070): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1074): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1078): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1082): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1086): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1090): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1111): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1145): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1163): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1167): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1171): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1193): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1197): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1215): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1219): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1241): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1245): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1312): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1317): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(1321): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(1325): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(1364): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1365): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1366): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1386): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1389): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1577): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1581): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1585): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1589): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1593): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1597): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1618): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1622): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1626): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1644): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1648): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1652): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1670): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1674): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1678): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1696): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1700): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1704): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1722): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1726): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1730): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1748): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1752): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1756): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1823): warning C4305: 'initializing': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(1842): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1846): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1850): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1947): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1951): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(1955): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2020): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2024): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2028): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2032): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2071): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2072): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2073): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2074): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2075): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2076): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2077): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2078): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2079): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2089): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2140): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2161): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2169): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2235): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2239): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2243): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2247): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2296): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2299): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2312): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2316): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2320): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2324): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2331): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2358): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2379): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2383): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2387): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2439): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2440): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2453): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2471): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2475): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2523): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2524): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2537): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2555): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2559): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2607): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2608): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2618): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2619): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(2621): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2639): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2643): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2691): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2692): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2693): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2708): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2726): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2730): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2778): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2779): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2780): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2795): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2813): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2817): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2893): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2895): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2897): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2898): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2899): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2959): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2963): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2967): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2969): warning C4305: 'initializing': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(2988): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2992): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(2996): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3014): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3018): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3022): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3040): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3044): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3048): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3133): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3134): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3209): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3213): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3217): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3219): warning C4305: 'initializing': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3237): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3238): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3241): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3242): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3245): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3246): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3268): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3289): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3290): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3293): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3294): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3297): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3298): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3364): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3368): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(3372): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(3376): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(3415): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3416): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3417): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3418): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3419): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3420): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3422): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3424): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3426): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3428): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3429): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3430): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3431): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3432): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3433): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3571): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3575): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3579): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3583): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3587): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3591): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3612): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3616): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3620): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3638): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3642): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3646): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3664): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3668): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3672): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3690): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3694): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3698): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3716): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3720): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3724): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3742): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3746): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3750): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3816): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3821): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(3825): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(3829): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+PHYSSolverCPU.cpp(3868): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3869): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3870): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3871): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3872): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3873): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3875): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3877): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3879): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(3881): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3882): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3883): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3884): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3885): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3886): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3903): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3906): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(3909): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4124): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(4128): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(4132): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(4136): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(4140): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(4144): warning C4305: '=': truncation from 'double' to 'float'
+PHYSSolverCPU.cpp(4165): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4169): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4191): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4195): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4217): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4225): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4243): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4247): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4269): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4273): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4277): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4295): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4299): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+PHYSSolverCPU.cpp(4303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PHYSSolverPlugin.cpp
+  PHYSSolverVector.cpp
+PHYSSolverVector.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library Release\xpbd2020.lib and object Release\xpbd2020.exp
+  xpbd2020.vcxproj -> C:\Users\user\Documents\backup\c\13thpaper\sourcecode\xpbd2020\Release\xpbd2020.mll
