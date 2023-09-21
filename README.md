@@ -11,8 +11,7 @@ In order to run the code, I use Microsoft Visual Studio Community Edition. But i
 My development environment: Windows 10, Autodesk Maya 2020.4 (education version), Visual Studio 2015. Therefore, I will explain how to run this plug-in according to my development environment. If you have a different set-up, please check out web for further assitance.
 
 Set-up:
-In order to set-up your development environment in Windows for Autodesk Maya:
-1) Download and install Maya
+1) Download and install Autodesk Maya for Windows
 2) Download the dev-kit from Autodesk website
 3) Download and install MS Visual Studio (not vscode!)
 4) Follow the instructions in dev-kit (it is straightforward! just a couple of copy-paste operations)
