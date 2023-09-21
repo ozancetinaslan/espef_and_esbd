@@ -8,7 +8,7 @@ Thankfully, there is not much dependencies in my plugin. Clearly, you have to ha
 
 In order to run the code, I use Microsoft Visual Studio Community Edition. But if you use another OS, you have to set-up your environment for the Maya plug-in development. There are many sources in web to guide you.
 
-My developemnt environment: Windows 10, Autodesk Maya 2020.4 (education version), Visual Studio 2015. Therefore, I will explain how to run this plug-in according to my development environment. If you have a different set-up, please check out web for further assitance.
+My developement environment: Windows 10, Autodesk Maya 2020.4 (education version), Visual Studio 2015. Therefore, I will explain how to run this plug-in according to my development environment. If you have a different set-up, please check out web for further assitance.
 
 Set-up:
 In order to set-up your development environment in Windows for Autodesk Maya:
