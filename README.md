@@ -111,9 +111,11 @@ volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
 
 Comment out the other constraints. After you have to build the code, copy the new .mll file to "...\documents\maya\plug-ins" folder. And run the beam.ma scene.
 
-<h3> IMPORTANT NOTE 1: </h3> Please always keep the collisionConstraints(staticSolverData, dynamicSolverData); and positionConstraints(staticSolverData, dynamicSolverData); constraints available.
+<h3> IMPORTANT NOTE 1: </h3> 
+Please always keep the collisionConstraints(staticSolverData, dynamicSolverData); and positionConstraints(staticSolverData, dynamicSolverData); constraints available.
 
-<h3> IMPORTANT NOTE 2: </h3> If you want to simulate the volumetric models, always keep centerofMassComputation(staticSolverData, dynamicSolverData); and volumeStrainConstraintTet(staticSolverData, dynamicSolverData); functions available (except StVK and Neo-hookean constraints which already provide volume!).
+<h3> IMPORTANT NOTE 2: </h3> 
+If you want to simulate the volumetric models, always keep centerofMassComputation(staticSolverData, dynamicSolverData); and volumeStrainConstraintTet(staticSolverData, dynamicSolverData); functions available (except StVK and Neo-hookean constraints which already provide volume!).
 
 <h3> ESBD Constraints are: </h3>
 
@@ -136,6 +138,7 @@ exponentialStvkSpringConstraint(staticSolverData, dynamicSolverData);
 <h3> Other Constraints are: </h3>
 
 Other state of the art methods for comparison purposes in the publications.
+
 
 Please enjoy the project and if you need any assistance, contact with me anytime.
 
