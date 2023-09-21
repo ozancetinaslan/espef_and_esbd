@@ -139,7 +139,7 @@ exponentialStvkSpringConstraint(staticSolverData, dynamicSolverData);
 
 Other state of the art methods for comparison purposes in the publications.
 
-&nbsp;&nbsp;
+&nbsp;
 
 Please enjoy the project and if you need any assistance, contact with me anytime.
 
