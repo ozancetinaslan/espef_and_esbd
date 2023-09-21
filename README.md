@@ -31,7 +31,7 @@ Building the Code:
 
 Setting up Maya:
 1) Visual Studio should generate a "xpbd2020.mll" file after the built (not a .exe file)
-2) Please copy that mll file into something like "...\documents\maya\plug-ins" folder.
+2) Please copy that .mll file into something like "...\documents\maya\plug-ins" folder.
 3) Please download the .py files from the scripts folder of this repo.
 4) Copy them into something like "...\documents\maya\scripts" folder.
 5) Please download the .ma files from the scenes folder of this repo.
@@ -54,51 +54,48 @@ Running the Beam Simulation:
 6) run it
 
 Simulating Different Constraints:
+
 ESPEF and ESBD propose novel position-based constraint to simulate deformable models. Their constraints and more are already implemented in PHYSSolverCPU.cpp file. 
 
 However, our implementation does not provide a runtime constraint change. Therefore, everytime you have to select which constraint you desire to simulate and re-built the project. Copy the the new .mll file to the "...\documents\maya\plug-ins" folder.
 
 You have to search for the "PHYSSolverCPU::satisfyConstraints" function in PHYSSolverCPU.cpp. The constraints are listed there, as show below:
 
-//satisfyConstraints
 
-void PHYSSolverCPU::satisfyConstraints(staticSolverData_t &staticSolverData, dynamicSolverData_t &dynamicSolverData)
-
-{
+	//satisfyConstraints
+	void PHYSSolverCPU::satisfyConstraints(staticSolverData_t &staticSolverData, dynamicSolverData_t &dynamicSolverData)
+	{	
+	 	//constraint hierarchy 
+		//stretchingConstraint(staticSolverData, dynamicSolverData);
+		//centerofMassComputation(staticSolverData, dynamicSolverData);
 	
- 	//constraint hierarchy
- 
-	//stretchingConstraint(staticSolverData, dynamicSolverData);
-	//centerofMassComputation(staticSolverData, dynamicSolverData);
-
-	//greenStrainConstraintTri(staticSolverData, dynamicSolverData);
-	//greenStrainConstraintModifiedTri(staticSolverData, dynamicSolverData);
-	//greenStrainConstraintTet(staticSolverData, dynamicSolverData);
-	//greenStrainConstraintModifiedTet(staticSolverData, dynamicSolverData);
-	//areaStrainConstraintTri(staticSolverData, dynamicSolverData);
-	//volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
-
-	//stVenantKirchhoffConstraintTet(staticSolverData, dynamicSolverData);
-	//neoHookeanConstraintTet(staticSolverData, dynamicSolverData);
-
-	//hookeSpringConstraint(staticSolverData, dynamicSolverData);
-	//stvkSpringConstraint(staticSolverData, dynamicSolverData);
-	//morsePotentialConstraint(staticSolverData, dynamicSolverData);
-	//exponentialHookeSpringConstraint(staticSolverData, dynamicSolverData);
-	//exponentialStvkSpringConstraint(staticSolverData, dynamicSolverData);
-	//volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
-
-	exponentialGreenStrainConstraintTri(staticSolverData, dynamicSolverData);
-	//exponentialGreenStrainConstraintModifiedTri(staticSolverData, dynamicSolverData);
-	//exponentialGreenStrainConstraintTet(staticSolverData, dynamicSolverData);
-	//exponentialGreenStrainConstraintModifiedTet(staticSolverData, dynamicSolverData);
-	//areaStrainConstraintTri(staticSolverData, dynamicSolverData);
-	//volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
+		//greenStrainConstraintTri(staticSolverData, dynamicSolverData);
+		//greenStrainConstraintModifiedTri(staticSolverData, dynamicSolverData);
+		//greenStrainConstraintTet(staticSolverData, dynamicSolverData);
+		//greenStrainConstraintModifiedTet(staticSolverData, dynamicSolverData);
+		//areaStrainConstraintTri(staticSolverData, dynamicSolverData);
+		//volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
 	
-	collisionConstraints(staticSolverData, dynamicSolverData);
-	positionConstraints(staticSolverData, dynamicSolverData);
- 
-}
+		//stVenantKirchhoffConstraintTet(staticSolverData, dynamicSolverData);
+		//neoHookeanConstraintTet(staticSolverData, dynamicSolverData);
+	
+		//hookeSpringConstraint(staticSolverData, dynamicSolverData);
+		//stvkSpringConstraint(staticSolverData, dynamicSolverData);
+		//morsePotentialConstraint(staticSolverData, dynamicSolverData);
+		//exponentialHookeSpringConstraint(staticSolverData, dynamicSolverData);
+		//exponentialStvkSpringConstraint(staticSolverData, dynamicSolverData);
+		//volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
+	
+		exponentialGreenStrainConstraintTri(staticSolverData, dynamicSolverData);
+		//exponentialGreenStrainConstraintModifiedTri(staticSolverData, dynamicSolverData);
+		//exponentialGreenStrainConstraintTet(staticSolverData, dynamicSolverData);
+		//exponentialGreenStrainConstraintModifiedTet(staticSolverData, dynamicSolverData);
+		//areaStrainConstraintTri(staticSolverData, dynamicSolverData);
+		//volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
+		
+		collisionConstraints(staticSolverData, dynamicSolverData);
+		positionConstraints(staticSolverData, dynamicSolverData); 
+	}
 
 In this list, you have to select your desired constraint and uncomment it and comment out the existing constraint.
 
