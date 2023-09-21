@@ -5,7 +5,9 @@ Let's jump into how to run the code:
 
 Prerequisites:
 Thankfully, there is not much dependencies in my plugin. Clearly, you have to have any version of Autodesk Maya installed in your computer. I personally use Windows 10 operating system in my machine, but this is not a limitation. You can install Maya on any Linux or MacOs.
+
 In order to run the code, I use Microsoft Visual Studio Community Edition. But if you use another OS, you have to set-up your environment for the Maya plug-in development. There are many sources in web to guide you.
+
 My developemnt environment: Windows 10, Autodesk Maya 2020.4 (education version), Visual Studio 2015. Therefore, I will explain how to run this plug-in according to my development environment. If you have a different set-up, please check out web for further assitance.
 
 Set-up:
@@ -54,13 +56,19 @@ Running the Beam Simulation:
 
 Simulating Different Constraints:
 ESPEF and ESBD propose novel position-based constraint to simulate deformable models. Their constraints and more are already implemented in PHYSSolverCPU.cpp file. 
+
 However, our implementation does not provide a runtime constraint change. Therefore, everytime you have to select which constraint you desire to simulate and re-built the project. Copy the the new .mll file to the "...\documents\maya\plug-ins" folder.
+
 You have to search for the "PHYSSolverCPU::satisfyConstraints" function in PHYSSolverCPU.cpp. The constraints are listed there, as show below:
 
 //satisfyConstraints
+
 void PHYSSolverCPU::satisfyConstraints(staticSolverData_t &staticSolverData, dynamicSolverData_t &dynamicSolverData)
+
 {
-	//constraint hierarchy
+	
+ 	//constraint hierarchy
+ 
 	//stretchingConstraint(staticSolverData, dynamicSolverData);
 	//centerofMassComputation(staticSolverData, dynamicSolverData);
 
@@ -90,30 +98,47 @@ void PHYSSolverCPU::satisfyConstraints(staticSolverData_t &staticSolverData, dyn
 	
 	collisionConstraints(staticSolverData, dynamicSolverData);
 	positionConstraints(staticSolverData, dynamicSolverData);
+ 
 }
 
 In this list, you have to select your desired constraint and uncomment it and comment out the existing constraint.
+
 For example, in its current version ESBD cloth simulation constraint (exponentialGreenStrainConstraintTri(staticSolverData, dynamicSolverData);) is available. If you build this, you have to run the clothFall18.ma scene
+
 Another example, if you want to simulate the ESBD beam simulation, you have to uncomment the following constraints:
+
 centerofMassComputation(staticSolverData, dynamicSolverData);
+
 exponentialGreenStrainConstraintModifiedTri(staticSolverData, dynamicSolverData);
+
 volumeStrainConstraintTet(staticSolverData, dynamicSolverData);
+
 After you have to build the code, copy the new .mll file to "...\documents\maya\plug-ins" folder. And run the beam.ma scene.
+
 IMPORTANT NOTE: if you want to simulate the volumentric models always and always keep centerofMassComputation(staticSolverData, dynamicSolverData); and volumeStrainConstraintTet(staticSolverData, dynamicSolverData); functions available (except StVK and Neohookean constraints which already provide volume!).
 
 ESBD Constraints are:
+
 exponentialGreenStrainConstraintTri(staticSolverData, dynamicSolverData);
+
 exponentialGreenStrainConstraintModifiedTri(staticSolverData, dynamicSolverData);
+
 exponentialGreenStrainConstraintTet(staticSolverData, dynamicSolverData);
+
 exponentialGreenStrainConstraintModifiedTet(staticSolverData, dynamicSolverData);
 
 ESPEF Constraints are:
+
 morsePotentialConstraint(staticSolverData, dynamicSolverData);
+
 exponentialHookeSpringConstraint(staticSolverData, dynamicSolverData);
+
 exponentialStvkSpringConstraint(staticSolverData, dynamicSolverData);
 
 Other Constraints are:
+
 Other state of the art methods for comparison purposes for the publications.
 
 Please enjoy the project and if you need any assistance, contact with me anytime.
+
 Thank you!
