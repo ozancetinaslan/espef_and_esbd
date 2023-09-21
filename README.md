@@ -4,7 +4,7 @@ This repository contains the Autodesk Maya plugin that I have built for my resea
 Let's jump into how to run the code:
 
 ## Prerequisites
-Thankfully, there is not much dependencies in my plugin. Clearly, you have to have any version of Autodesk Maya installed in your computer. I personally use Windows 10 operating system in my machine, but this is not a limitation. You can install Maya on any Linux or MacOs.
+Thankfully, there is not much dependencies in my plugin. Clearly, you have to have any version of Autodesk Maya installed in your computer. I personally use Windows 10 operating system in my machine, but this is not a limitation. You can install Maya on any Linux or MacOS computers.
 
 In order to run the code, I use Microsoft Visual Studio Community Edition. But if you use another OS, you have to set-up your environment for the Maya plug-in development. There are many sources in web to guide you.
 
