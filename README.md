@@ -113,7 +113,7 @@ Comment out the other constraints. After you have to build the code, copy the ne
 
 IMPORTANT NOTE 1: Please always keep the collisionConstraints(staticSolverData, dynamicSolverData); and positionConstraints(staticSolverData, dynamicSolverData); constraints available.
 
-IMPORTANT NOTE 2: If you want to simulate the volumentric models always and always keep centerofMassComputation(staticSolverData, dynamicSolverData); and volumeStrainConstraintTet(staticSolverData, dynamicSolverData); functions available (except StVK and Neohookean constraints which already provide volume!).
+IMPORTANT NOTE 2: If you want to simulate the volumetric models, always keep centerofMassComputation(staticSolverData, dynamicSolverData); and volumeStrainConstraintTet(staticSolverData, dynamicSolverData); functions available (except StVK and Neo-hookean constraints which already provide volume!).
 
 ESBD Constraints are:
 
