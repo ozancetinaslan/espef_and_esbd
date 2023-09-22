@@ -127,7 +127,7 @@ exponentialGreenStrainConstraintModifiedTri(staticSolverData, dynamicSolverData)
 
 exponentialGreenStrainConstraintTet(staticSolverData, dynamicSolverData); -> -> For beam simulation (or any volumetric 3D model simulation)
 
-exponentialGreenStrainConstraintModifiedTet(staticSolverData, dynamicSolverData); -> -> For cloth simulation (or any volumetric 3D model simulation)
+exponentialGreenStrainConstraintModifiedTet(staticSolverData, dynamicSolverData); -> -> For beam simulation (or any volumetric 3D model simulation)
 
 ### ESPEF Constraints:
 
