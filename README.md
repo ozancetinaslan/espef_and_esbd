@@ -45,6 +45,7 @@ My development environment: Windows 10, Autodesk Maya 2020.4 (education version)
 5) Select the Python tab
 6) type "import xpbd2020Test1"
 7) run it
+8) press the play button (down right)
 
 ## Running the Beam Simulation
 1) Please open Maya
@@ -54,6 +55,7 @@ My development environment: Windows 10, Autodesk Maya 2020.4 (education version)
 5) Select the Python tab
 6) type "import xpbd2020Test8"
 7) run it
+8) press the play button (down right)
 
 ## Simulating Different Constraints
 
